@@ -1,0 +1,78 @@
+Disclaimer: If you don't some of them just skip to the next one
+
+══════════════════════════════════════════════════════════════════════════════
+     Click Ethernet, Properties, click configure then Advanced
+══════════════════════════════════════════════════════════════════════════════
+Do the following:
+
+Enable PME | DISABLED
+
+Energy Efficient Ethernet | DISABLED
+
+Flow Control | DISABLED
+
+Gigabyte Master Slave Mode | Auto Detect
+
+Interupt Moderation | ENABLED
+
+Interupt Moderation Rate | ADAPTATIVE
+
+IPv4 Checksum Offload | DISABLED
+
+Jumbo Packet | DISABLED
+
+Large Send Offload V2 (IPv4) | DISABLED
+
+Large Send Offload V2 (IPv6) | DISABLED
+
+Legacy Switch Compatability Mode | DISABLED
+
+Link Speed Battery Saver | DISABLED
+
+Log Link State Event | DISABLED
+
+Maximum Number of RSS Queues | 1 QUEUE
+
+Packet Priority & VLAN | DISABLED
+
+Protocol ARP Offload | DISABLED
+
+Protocol NS Offload | DISABLED
+
+PTP Hardware Timestamp | DISABLED
+
+Receive Buffers | MAX IT OUT
+
+Recieve Side Scaling || ENABLED
+
+Reduce Speed On Power Down | DISABLED
+
+RSS load balancing profile | CLOSET PROCESSOR
+
+Software Timestamp | DISABLED
+
+Speed & Duplex | AUTO NEGOTITATION
+
+System Idle Power Saver | DISABLED
+
+TCP Checksum Offload (IPv4) | DISABLED
+
+TCP Checksum Offload (IPv6) | DISABLED
+
+Transmit Buffers | MAX IT OUT
+
+UDP Checksum Offload (IPv4) | DISABLED
+
+UDP Checksum Offload (IPv6) | DISABLED
+
+Ultra Low Power Mode | DISABLED
+
+Wait for Link | DISABLED
+
+Wake From S0ic on magic Packet | DISABLED
+
+Wake on Link Settings | DISABLED
+
+Wake on Magic Packet | DISABLED
+
+Wake on Pattern Match | DISABLED
